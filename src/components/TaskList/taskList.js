@@ -21,15 +21,15 @@ const TaskList = ({ listItem, onDone, onDelete, onEdition, onChange }) => {
 };
 
 export default TaskList;
-TaskList.defaultProps = {
-  listItem: [],
-  onDone: () => {},
-  onEdition: () => {},
-  onDelete: () => {},
-  onLabelDelete: () => {},
-  onChange: () => {},
-  onСheked: () => {},
-};
+// TaskList.defaultProps = {
+//   listItem: [],
+//   onDone: () => {},
+//   onEdition: () => {},
+//   onDelete: () => {},
+//   onLabelDelete: () => {},
+//   onChange: () => {},
+//   onСheked: () => {},
+// };
 
 TaskList.propTypes = {
   listItem: (props, propName) => {
