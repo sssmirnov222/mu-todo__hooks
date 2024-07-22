@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mu-todo__hooks/static/css/main.a9abeb7d.css",
+    "main.js": "/mu-todo__hooks/static/js/main.66cadd23.js",
+    "index.html": "/mu-todo__hooks/index.html",
+    "main.a9abeb7d.css.map": "/mu-todo__hooks/static/css/main.a9abeb7d.css.map",
+    "main.66cadd23.js.map": "/mu-todo__hooks/static/js/main.66cadd23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9abeb7d.css",
+    "static/js/main.66cadd23.js"
+  ]
+}
