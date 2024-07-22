@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/mu-todo__hooks/static/css/main.a9abeb7d.css",
+    "main.css": "/mu-todo__hooks/static/css/main.bf215af3.css",
     "main.js": "/mu-todo__hooks/static/js/main.66cadd23.js",
     "index.html": "/mu-todo__hooks/index.html",
-    "main.a9abeb7d.css.map": "/mu-todo__hooks/static/css/main.a9abeb7d.css.map",
+    "main.bf215af3.css.map": "/mu-todo__hooks/static/css/main.bf215af3.css.map",
     "main.66cadd23.js.map": "/mu-todo__hooks/static/js/main.66cadd23.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9abeb7d.css",
+    "static/css/main.bf215af3.css",
     "static/js/main.66cadd23.js"
   ]
 }
