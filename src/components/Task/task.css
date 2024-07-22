@@ -164,3 +164,9 @@ li {
   color: #cdcdcd;
   text-decoration: line-through;
 }
+
+@media (max-width: 410px) {
+  span {
+    font-size: 14px;
+  }
+}
